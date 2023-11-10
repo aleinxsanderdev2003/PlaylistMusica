@@ -18,5 +18,5 @@ Route::get('/', function () {
 });
 
 Route::get('/playlist', function () {
-    return view('playList');
+    return view('usuario.playList');
 });
