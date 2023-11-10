@@ -61,8 +61,40 @@
         <div class="texto" id="home">
             <h4 class="text-white" style="font-family: 'Playfair Display', serif;">Tu playlist</h4>
             <h3 class="text-white" style="font-family: 'Quicksand', sans-serif;">PLAYLIST MUSIC PERÚ</h3>
-            <a href="" class="btn text-white btn-31"  style="font-family: 'Quicksand', sans-serif; font-size:15px;background: rgb(0, 0, 0) 42)"> <span class="text-container"><span class="text">Escuchar</span> </span></a>
+            <a href="" class="btn text-white btn-31"  style="font-family: 'Quicksand', sans-serif; font-size:15px;background:#130830"> <span class="text-container"><span class="text">Escuchar</span> </span></a>
         </div>
+    </div>
+
+
+<!--Info del restaurante-->
+<div style="background: rgb(2, 2, 2); margin-top:-50px;" >
+    <div class="container my-5" style="padding:20px">
+    <div class="row">
+      <div class="col-md-4 mb-4 " >
+        <img  src="img/logos/logo.png" alt="Logo de la empresa" class="img-fluid">
+      </div>
+      <div class="col-md-8" style="border-radius: 50px;
+      background: #130830;
+      box-shadow:  20px 20px 60px #100729,
+                   -20px -20px 60px #160937;">
+        <h1 class="mb-4 text-white text-center"  style="font-family: 'Playfair Display', serif;">PLAYLIST MUSIC PERÚ</h1>
+        <hr class="text-white">
+        <p></p>
+
+        <h5 class="mt-5 mb-4 text-white text-center">¡Bienvenido!</h5>
+        <p class="mt-5 mb-4 text-white">Ofrecemos una amplia variedad de platos deliciosos para comenzar el día con energía. Además, contamos con una selección de bebidas que
+            incluye café, té, jugos naturales y más. También ofrecemos opciones para otros momentos del día, como almuerzos ligeros, snacks saludables y postres deliciosos. ¡Y no olvides que
+            puedes realizar pedidos para llevar o entrega a domicilio para disfrutar de nuestra comida en la comodidad de tu hogar! ¡Te esperamos para brindarte una experiencia
+            culinaria única!"</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+         <!-- Pie de página -->
+         <footer class="bg-dark text-white text-center py-2">
+            Desarrollado por Gimmick &copy; 2023
+          </footer>
 
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
     integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
