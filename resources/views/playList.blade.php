@@ -15,5 +15,10 @@
 
     </header>
     <script src="{{ asset('js/playlist.js') }}"></script>
+
+
+    <div></div>
+
+    <div></div>
 </body>
 </html>
